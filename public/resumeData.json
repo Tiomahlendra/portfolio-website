@@ -2,8 +2,20 @@
     "main":{
         "name" : "Septiono Mahlendra",
         "description" : "I am a Progammer",
-        "image" : "protilefic.jpg",
+        "image" : "profile.jpg",
         "github" : "https://github.com/Tiomahlendra",
-        "project" : "https://github.com/Tiomahlendra"
+        "project" : "https://github.com/Tiomahlendra",
+        "bio": "Passionate about coding and design, I turn ideas into reality through web development. Always learning, always creating. ",
+        "contactmessage":"Hello, here I am",
+        "email": "septionomahlendra2004@gmail.com",
+        "phone": "0823-6941-9583",
+        "address":{
+            "street":"Jl Sukarno Hatta",
+            "city":"Benai, Teluk Kuantan",
+            "state":"Riau",
+            "zip": "29562"
+        },
+        "website": "https://github.com/Tiomahlendra",
+        "resumedownload":"https://github.com/Tiomahlendra"
     }
 }
