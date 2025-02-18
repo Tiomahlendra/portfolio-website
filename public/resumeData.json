@@ -17,5 +17,60 @@
         },
         "website": "https://github.com/Tiomahlendra",
         "resumedownload":"https://github.com/Tiomahlendra"
+    },
+    "resume" : {
+        "education" : [
+            {
+                "school" : "Universitas Islam Kuantan Singingi",
+                "degree" : "Bachelor degree of Informatic Engineering",
+                "graduated" : "Jun 2027",
+                "description" : "I am join to company position front-end developer"
+            },
+            {
+                "school" : "SMK N 2 Teluk Kuantan",
+                "degree" : "Science",
+                "graduated" : "May 2022",
+                "description": "I am win championship dokumenter"
+            }
+        ],
+        "work": [
+            {
+                "company" : "JT Industries",
+                "title" : "Head Master",
+                "years" : "Februari 2023 - Oktober 2024",
+                "description" : "The Beginning of designing t-shirt and poster according to consumer wishes, and then become head master regulation of teams"
+            },{
+                "company" : "SDIT An-Najiyah",
+                "title": "Security",
+                "years": "Februari 2025",
+                "description" : "looking for student and directing traffic"
+            }
+        ],
+        "skills":[
+            {
+                "name":"Python",
+                "level": "60%"
+            },
+            {
+                "name":"Javascript",
+                "level" :"70%"
+            },
+            {
+                "name":"CSS",
+                "level" :"90%"
+            },
+            {
+                "name":"ReactJs",
+                "level" :"80%"
+            },
+            {
+                "name":"VueJs",
+                "level" :"90%"
+            },
+            {
+                "name":"php",
+                "level" :"60%"
+            }
+        ]
     }
 }
