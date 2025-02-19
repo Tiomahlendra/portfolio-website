@@ -16,7 +16,34 @@
             "zip": "29562"
         },
         "website": "https://github.com/Tiomahlendra",
-        "resumedownload":"https://github.com/Tiomahlendra"
+        "resumedownload":"https://github.com/Tiomahlendra",
+        "social":[
+            {
+                "name": "facebook",
+                "url": "https://github.com/Tiomahlendra",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://github.com/Tiomahlendra",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"https://www.linkedin.com/in/septiono-mahlendra-383a9132a/",
+                "className":"fa fa-linkedin"
+              },
+            {
+                "name": "Instagram",
+                "url": "http://instagram.com/tio.mahlendra_",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name":"github",
+                "url":"https://github.com/Tiomahlendra",
+                "className":"fa fa-github"
+              }
+        ]
     },
     "resume" : {
         "education" : [
